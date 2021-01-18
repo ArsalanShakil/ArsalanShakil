@@ -3,6 +3,9 @@
 <div align="center">
 <h3>:ghost:	 Arsalan | 💻 Web/Mobile Developer | Helsinki</h3>
 </div>
+<div align='center'>
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=%230073b1&label=Arsalan%20Shakil&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farsalan-shakil%2F)](https://www.linkedin.com/in/arsalan-shakil/) [![Mail Badge](https://img.shields.io/twitter/url?color=%23FFABDE%20&label=%20%40shakilarsalan&logo=instagram&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fshakilarsalan%2F)](https://www.instagram.com/shakilarsalan/)
+</div>
 <!--
 **ArsalanShakil/ArsalanShakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
