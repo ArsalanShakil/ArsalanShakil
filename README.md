@@ -24,9 +24,8 @@
 
 
 
-#### What I have learned
 
-<!-- TODO: Make technologies links takes you to repositories -->
+#### What I have learned
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![R Badge](https://img.shields.io/badge/-R-3864BA?style=for-the-badge&labelColor=black&logo=R&logoColor=3864BA)](#)[![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=Java&logoColor=white)](#) [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&labelColor=black&logo=Kotlin&logoColor=0095D5)](#) [![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=C&logoColor=A8B9CC)](#) [![MySQL Badge](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=orange)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#)
 
@@ -40,17 +39,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanShakil&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**ArsalanShakil/ArsalanShakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My workflow
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <img src="https://en.meming.world/images/en/d/d9/I_Don%27t_Need_Sleep._I_Need_Answers.jpg" />
+   </p>
+   
+<br />
+
+<h1 align='center'>⚡️<i>Bazinga!</i>⚡️</h1>
