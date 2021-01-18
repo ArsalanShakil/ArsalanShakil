@@ -7,7 +7,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/arsalan-shakil/"><img height="30" src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/linkedin.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/arsalan-shakil/"><img height="30" src="https://ibb.co/nPM4hmd"></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
 </p>
 <br />
