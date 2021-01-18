@@ -16,9 +16,9 @@
   <h3> A Self-taught Developer currently a Bachelor's student at Metropolia UAS</h3>
 </p>
 
-- Learning React & React Native :blush:
+- - Currently learning React & React Native with Javascript :blush:
 
-- I do full-stack Web and Mobile Development and much of every thing
+- I do full-stack Web and Mobile Development
 
 - I always enjoy learning new skills 
 
