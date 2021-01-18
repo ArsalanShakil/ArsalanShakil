@@ -3,13 +3,12 @@
 </div>
 
 <div align="center">
-<h3>😀Arsalan Shakil | 💻 Web/Mobile Developer | 📍Helsinki</h3>
+<h3> 😀 Arsalan Shakil | 💻 Web/Mobile Developer | 📍 Helsinki</h3>
 </div>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/arsalan-shakil/"><img height="30" src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/linkedin.png"></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/shakilarsalan/"><img height="30" src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/insta.png"></a>&nbsp;&nbsp;
 </p>
 
 <!--
