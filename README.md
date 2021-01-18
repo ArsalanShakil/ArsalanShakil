@@ -10,6 +10,18 @@
    <a href="https://www.linkedin.com/in/arsalan-shakil/"><img height="30" src="https://raw.githubusercontent.com/AkashM398/AkashM398/master/images/linkedin.png"></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
 </p>
+<br />
+
+<p align="center">
+  <h3> A Self-taught Developer currently a Bachelor's student at Metropolia UAS</h3>
+</p>
+
+- Learning React & React Native :blush:
+
+- I do full-stack Web and Mobile Development and much of every thing
+
+- I always enjoy learning new skills 
+
 
 <!--
 **ArsalanShakil/ArsalanShakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
