@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-  <h3> A Bachelor's student at <a>Metropolia</a></h3>
+  <h3> A Bachelor's student at <a href="https://metropolia.fi/en">Metropolia</a></h3>
 </p>
 
 - Currently learning iOS development with Swift :blush:
