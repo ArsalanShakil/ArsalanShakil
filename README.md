@@ -47,7 +47,7 @@
 <br />
 
 <p align="center">
-   <img width="50%" src="https://en.meming.world/images/en/d/d9/I_Don%27t_Need_Sleep._I_Need_Answers.jpg" />
+   <img width="60%" src="https://en.meming.world/images/en/d/d9/I_Don%27t_Need_Sleep._I_Need_Answers.jpg" />
    </p>
    
 <br />
