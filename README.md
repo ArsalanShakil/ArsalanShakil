@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-  <h3> A Bachelor's student at Metropolia UAS</h3>
+  <h3> A Bachelor's student at [Metropolia University of Applied Sciences](https://metropolia.fi)</h3>
 </p>
 
 - Currently learning iOS development with Swift :blush:
