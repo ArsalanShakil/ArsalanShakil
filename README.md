@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-  <h3> A Bachelor's student at [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)]</h3>
+  <h3> A Bachelor's student at <a>Metropolia</a></h3>
 </p>
 
 - Currently learning iOS development with Swift :blush:
