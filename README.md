@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-  <h3> A Bachelor's student at <a href="https://metropolia.fi/en" target="_blank" >Metropolia University of Applied Sciences</a></h3>
+  <h3> A Bachelor's student at <a href="https://metropolia.fi/en">Metropolia University of Applied Sciences</a></h3>
 </p>
 
 - I’m currently working on [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii) project as a mobile developer (Flutter/dart). :blush:
