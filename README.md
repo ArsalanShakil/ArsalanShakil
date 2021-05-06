@@ -16,7 +16,7 @@
   <h3> A Bachelor's student at <a href="https://metropolia.fi/en">Metropolia University of Applied Sciences</a></h3>
 </p>
 
-- Currently learning Flutter and Dart :blush:
+- I’m currently working on [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii) project as a mobile developer (Flutter/dart). :blush:
 
 - I do full-stack Web and Mobile Development
 
