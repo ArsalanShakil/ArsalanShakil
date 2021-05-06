@@ -16,7 +16,7 @@
   <h3> A Bachelor's student at <a href="https://metropolia.fi/en">Metropolia University of Applied Sciences</a></h3>
 </p>
 
-- Currently learning iOS development with Swift :blush:
+- Currently learning Flutter and Dart :blush:
 
 - I do full-stack Web and Mobile Development
 
