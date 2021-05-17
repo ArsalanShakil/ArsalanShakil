@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3> 😀 Arsalan Shakil | 💻 Web/Mobile Developer | 📍 Helsinki</h3>
+<h3> 😀 Arsalan Shakil | 💻 Mobile/Web Developer | 📍 Helsinki</h3>
 </div>
 
 <p align='center'>
@@ -18,7 +18,7 @@
 
 - I’m currently working on [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii) project as a mobile developer (Flutter/dart). :blush:
 
-- I do full-stack Web and Mobile Development
+- I do full-stack Mobile and Web Development
 
 - I always enjoy learning new skills 
 
