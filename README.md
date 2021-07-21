@@ -49,5 +49,5 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Bazinga!</i>⚡️</h1>
+<h1 align='center'>⚡️</h1>
 
