@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3> 😀 Arsalan Shakil | 💻 Mobile/Web Developer | 📍 Helsinki</h3>
+<h3>Arsalan Shakil | 💻 Mobile/Web Developer | 📍 Helsinki</h3>
 </div>
 
 <p align='center'>
