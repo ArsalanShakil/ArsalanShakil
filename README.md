@@ -35,9 +35,9 @@
  [![Webstorm Badge](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&labelColor=white&logo=WebStorm&logoColor=000000)](#) [![VScode Badge](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&labelColor=black&logo=Visual-Studio-Code&logoColor=007ACC)](#) [![InVision Badge](https://img.shields.io/badge/-InVision-FF3366?style=for-the-badge&labelColor=black&logo=InVision&logoColor=FF3366)](#) [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=Figma&logoColor=F24E1E)](#) [![AndroidStudio Badge](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&labelColor=black&logo=Android-Studio&logoColor=3DDC84)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=Postman&logoColor=FF6C37)](#) [![Xcode Badge](https://img.shields.io/badge/-Xcode-FFB71B?style=for-the-badge&labelColor=black&logo=Xcode&logoColor=FFB71B)](#)
 ### My Github
 
-![Arsalan's github stats](https://github-readme-stats.vercel.app/api?username=ArsalanShakil&show_icons=true&theme=vue)
+![Arsalan's github stats](https://github-readme-stats.vercel.app/api?username=ArsalanShakil&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanShakil&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanShakil&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My workflow
 
