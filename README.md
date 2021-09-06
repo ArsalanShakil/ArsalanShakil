@@ -1,5 +1,6 @@
-<div align='left'>
-   <h2></a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px"> I'm a Mobile Developer  with a passion to improve peoples' lives with tech 📍 Helsinki  <a href="https://www.linkedin.com/in/arsalan-shakil/"><img height="24" src="https://i.ibb.co/VwYbX9n/linkedin.png"></a>&nbsp;&nbsp;
+<div align='center'>
+   <h2></a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px"> I'm a Mobile Developer  with a passion to improve peoples' lives with tech</h2>
+<h2>📍 Helsinki | <a href="https://www.linkedin.com/in/arsalan-shakil/"><img height="24" src="https://i.ibb.co/VwYbX9n/linkedin.png"></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;</h2> 
 </div>
 
