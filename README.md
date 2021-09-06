@@ -43,11 +43,7 @@
 
 <br />
 
-<p align="center">
-   <img width="60%" src="https://en.meming.world/images/en/d/d9/I_Don%27t_Need_Sleep._I_Need_Answers.jpg" />
-   </p>
-   
-<br />
+
 
 <h1 align='center'>⚡️</h1>
 
