@@ -1,11 +1,6 @@
 <div align='center'>
-   <h1>Hi there, I'm Arsalan</a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px"> </h1> 
+   <h1></a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px">, I'm a Mobile Developer  with a passion to improve peoples' lives with tech 📍 Helsinki</h1> 
 </div>
-
-<div align="center">
-<h3>Arsalan Shakil | 💻 Mobile/Web Developer | 📍 Helsinki</h3>
-</div>
-
 <p align='center'>
    <a href="https://www.linkedin.com/in/arsalan-shakil/"><img height="30" src="https://i.ibb.co/VwYbX9n/linkedin.png"></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
