@@ -15,6 +15,7 @@
 - I always enjoy learning new skills 
 
 
+[![Coding Wars Badge](https://www.codewars.com/users/ArsalanShakil/badges/large)]
 
 
 #### What I have learned
