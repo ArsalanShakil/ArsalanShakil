@@ -8,7 +8,7 @@
   <h3> A Bachelor's student at <a href="https://metropolia.fi/en">Metropolia University of Applied Sciences</a></h3>
 </p>
 
-- I’m currently working on [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii) an R&D project as a mobile developer (Flutter/dart). :blush:
+- I’m currently working on [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii) a R&D project as a mobile developer (Flutter/dart). :blush:
 
 - I am a mobile developer with a focus on Android but I am comfortable working on iOS and hybrid apps as well
 
