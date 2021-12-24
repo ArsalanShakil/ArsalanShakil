@@ -10,7 +10,7 @@
 
 - I’m currently working on [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii) a R&D project as a mobile developer (Flutter/dart). :blush:
 
-- I am a mobile developer with a focus on Android but I am comfortable working on iOS and hybrid apps as well
+- I am a full stack developer with a focus on Android but I am comfortable working on web, iOS and hybrid apps as well
 
 - I always enjoy learning new skills 
 
