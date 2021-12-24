@@ -12,6 +12,8 @@
 
 - I am a full stack developer with a focus on Android but I am comfortable working on web, iOS and hybrid apps as well
 
+- Checkout my current backend side project https://github.com/ArsalanShakil/crud-api
+
 - I always enjoy learning new skills 
 
 
