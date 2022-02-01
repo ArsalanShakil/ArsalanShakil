@@ -25,9 +25,7 @@
 
 #### My Certifications
 
-[![professional-scrum-master-i-psm-i](https://user-images.githubusercontent.com/40695548/152004436-246954dc-7683-4ddb-b430-265c4862c973.png)](#)
-[![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/40695548/152004428-ddab0bb4-94b4-45cc-bb67-126d2472d5f2.png)](#)
-
+<img  alt="professional-scrum-master-i-psm-i" src="https://user-images.githubusercontent.com/40695548/152005920-811b9b68-c2ed-4371-b6ac-c0083f26f749.png" width="8%"/> <img alt="microsoft-certified-azure-fundamentals" src="https://user-images.githubusercontent.com/40695548/152005929-ae2b1aa2-22cc-4a05-afb0-8688d62d7f81.png" width="8%"/>
 
 #### What I have learned
 
