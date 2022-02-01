@@ -23,6 +23,11 @@
 
 ![Coding Wars Badge](https://www.codewars.com/users/ArsalanShakil/badges/large)
 
+#### Certifications
+
+[![professional-scrum-master-i-psm-i](https://user-images.githubusercontent.com/40695548/152004436-246954dc-7683-4ddb-b430-265c4862c973.png)](#)
+[![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/40695548/152004428-ddab0bb4-94b4-45cc-bb67-126d2472d5f2.png)](#)
+
 
 #### What I have learned
 
