@@ -1,7 +1,9 @@
 <div align='center'>
-   <h2><a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px"> I'm a Mobile Developer  with a passion to improve peoples' lives with tech</h2>
-</a>&nbsp;&nbsp;</h3> 
+   <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px"> I'm a Mobile Developer  with a passion to improve peoples' lives with tech</h2>
+ 
+<a href="https://www.linkedin.com/in/arsalan-shakil/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="8%"/></a>
 </div>
+
 
 
 <img align="right" alt="custom gif" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" width="8%"/>
