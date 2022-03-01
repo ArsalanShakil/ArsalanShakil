@@ -13,11 +13,9 @@
   <h3> A Bachelor's student at Metropolia University of Applied Sciences</h3>
 </p>
 
-- I’m currently working as Software Developer at Futurice and also working on the [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii), as a mobile developer with (Flutter/dart). :blush:
+- I’m currently working as Software Developer at Futurice and also working on the [SIMHE-app](https://www.metropolia.fi/en/rdi/rdi-projects/simheapp-ii), as a mobile developer with (Flutter/Dart). :blush:
 
 - I am a full stack developer with a focus on Android but I am comfortable working on web, iOS and hybrid apps as well
-
-- Checkout my current backend side project https://github.com/ArsalanShakil/crud-api
 
 - I always enjoy learning new skills 
 
