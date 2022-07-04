@@ -1,5 +1,5 @@
 <div align='center'>
-   <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="10px"> I'm a Mobile Developer  with a passion to improve peoples' lives with tech</h2>
+   <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%"> I'm a Mobile Developer  with a passion to improve peoples' lives with tech</h2>
  
 <a href="https://www.linkedin.com/in/arsalan-shakil/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="60px"/></a>
 </div>
