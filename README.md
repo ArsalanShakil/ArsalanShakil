@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <h3> A Bachelor's student at Metropolia University of Applied Sciences</h3>
+  
 </p>
 
 - I’m currently working as Software Developer at Futurice. :blush:
