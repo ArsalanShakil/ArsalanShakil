@@ -13,7 +13,7 @@
   
 </p>
 
-- I’m currently working as Software Developer at Futurice. :blush:
+- I’m currently working as Software Developer at FinnAir. :blush:
 
 - I am a full stack developer with a focus on Android but I am comfortable working on web, iOS and hybrid apps as well
 
