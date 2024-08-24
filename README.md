@@ -19,7 +19,7 @@
 
 - I always enjoy learning new skills 
 
-- <a href="https://arsalanshakil.github.io/" >Checkout my website</a>
+- <a href="https://arsalanshakil.github.io/" >Checkout my website (outdated)</a>
 
 ![Coding Wars Badge](https://www.codewars.com/users/ArsalanShakil/badges/large)
 
