@@ -13,7 +13,7 @@
   
 </p>
 
-- I’m currently working as AI Research Engingeer at F-Secure. :blush:
+- I’m currently working as AI Research Engineer at F-Secure. :blush:
 
 - Working on projects involving mobile and machine learning, including experimenting with on-device LLMs.
 - Collaborating with cross-functional teams to integrate machine learning models into mobile platforms, improving functionality and responsiveness.
