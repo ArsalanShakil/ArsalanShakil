@@ -1,12 +1,12 @@
 <div align='center'>
-   <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%"> I'm a AI Researcher with a passion to improve peoples' lives with tech</h2>
+   <h2><!---<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%">--> I'm a AI Researcher with a passion to improve peoples' lives with tech</h2>
  
 <a href="https://www.linkedin.com/in/arsalan-shakil/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="60px"/></a>
 </div>
 
 
 
-<img align="right" alt="custom gif" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" width="8%"/>
+ <!---<img align="right" alt="custom gif" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" width="8%"/>-->
 
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 #### Tools I have used
 
- [![Webstorm Badge](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&labelColor=white&logo=WebStorm&logoColor=000000)](#) [![VScode Badge](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&labelColor=black&logo=Visual-Studio-Code&logoColor=007ACC)](#) [![InVision Badge](https://img.shields.io/badge/-InVision-FF3366?style=for-the-badge&labelColor=black&logo=InVision&logoColor=FF3366)](#) [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=Figma&logoColor=F24E1E)](#) [![AndroidStudio Badge](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&labelColor=black&logo=Android-Studio&logoColor=3DDC84)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=Postman&logoColor=FF6C37)](#) [![Xcode Badge](https://img.shields.io/badge/-Xcode-FFB71B?style=for-the-badge&labelColor=black&logo=Xcode&logoColor=FFB71B)](#) [![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=white&logo=heroku&logoColor=430098)](#)
+ [![Webstorm Badge](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&labelColor=white&logo=WebStorm&logoColor=000000)](#) [![VScode Badge](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&labelColor=black&logo=Visual-Studio-Code&logoColor=007ACC)](#)[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=Figma&logoColor=F24E1E)](#) [![AndroidStudio Badge](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&labelColor=black&logo=Android-Studio&logoColor=3DDC84)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=Postman&logoColor=FF6C37)](#) [![Xcode Badge](https://img.shields.io/badge/-Xcode-FFB71B?style=for-the-badge&labelColor=black&logo=Xcode&logoColor=FFB71B)](#) [![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=white&logo=heroku&logoColor=430098)](#)
 ### My Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanShakil&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
