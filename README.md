@@ -21,7 +21,6 @@
 
 - <a href="https://arsalanshakil.github.io/" >Checkout my website (outdated)</a>
 
-![Coding Wars Badge](https://www.codewars.com/users/ArsalanShakil/badges/large)
 
 #### My Certifications
 
