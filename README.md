@@ -1,5 +1,5 @@
 <div align='center'>
-   <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%"> I'm a Mobile Developer  with a passion to improve peoples' lives with tech</h2>
+   <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%"> I'm a AI Researcher with a passion to improve peoples' lives with tech</h2>
  
 <a href="https://www.linkedin.com/in/arsalan-shakil/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="60px"/></a>
 </div>
@@ -13,10 +13,10 @@
   
 </p>
 
-- I’m currently working as Mobile Engineer at Finnair. :blush:
+- I’m currently working as AI Research Engingeer at F-Secure. :blush:
 
-- I am a full stack developer with a focus on Android but I am comfortable working on web, iOS and hybrid apps as well
-
+- Working on projects involving mobile and machine learning, including experimenting with on-device LLMs.
+- Collaborating with cross-functional teams to integrate machine learning models into mobile platforms, improving functionality and responsiveness.
 - I always enjoy learning new skills 
 
 - <a href="https://arsalanshakil.github.io/" >Checkout my website (outdated)</a>
