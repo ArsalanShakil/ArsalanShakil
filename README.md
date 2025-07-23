@@ -19,7 +19,6 @@
 - Collaborating with cross-functional teams to integrate machine learning models into mobile platforms, improving functionality and responsiveness.
 - I always enjoy learning new skills 
 
-- <a href="https://arsalanshakil.github.io/" >Checkout my website (outdated)</a>
 
 
 #### My Certifications
