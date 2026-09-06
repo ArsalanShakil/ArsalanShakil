@@ -13,7 +13,7 @@
   
 </p>
 
-- I’m currently working as AI Research Engineer at [F-Secure](https://www.f-secure.com/en).
+- I’m currently working as an AI Engineer.
 
 
 
